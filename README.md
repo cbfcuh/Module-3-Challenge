@@ -29,7 +29,7 @@ Personally I find that this web application is far from perfect and a lot can be
 - Rather than have the use type "Yes/No" to add the next employee, the use of a button would be more effective.
 
 # Live Application
-By clicking here, it will open to the web application that you can test out for yourself.
+By clicking <a href="https://cbfcuh.github.io/Module-3-Challenge/">here</a>, it will open to the web application that you can test out for yourself.
 
 # Credits
 Starter code was taken from <a href="https://github.com/coding-boot-camp/curly-potato">Github</a>
